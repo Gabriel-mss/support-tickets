@@ -1,1 +1,13 @@
-{}
+{
+  "tickets": [
+    {
+      "id": "80cde5b5-dd68-4a33-96fe-a977b9eb65ca",
+      "equipment": "Computador",
+      "description": "Computador não liga.",
+      "user_name": "Gabriel Martins",
+      "status": "open",
+      "created_at": "2026-04-11T13:25:08.078Z",
+      "updated_at": "2026-04-11T13:25:08.078Z"
+    }
+  ]
+}
