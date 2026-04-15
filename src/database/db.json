@@ -1,22 +1,41 @@
 {
   "tickets": [
     {
-      "id": "21f86fe2-7873-4f70-9b5a-cf9b2ece686e",
+      "id": "ddfd4281-f8df-4e70-b924-02ded1859ba2",
       "equipment": "Mouse",
       "description": "O click não funciona.",
-      "user_name": "Gabriel Martins",
-      "status": "open",
-      "created_at": "2026-04-15T22:55:07.561Z",
-      "updated_at": "2026-04-15T22:55:48.570Z"
+      "user_name": "Jose",
+      "status": "closed",
+      "created_at": "2026-04-15T23:22:56.369Z",
+      "updated_at": "2026-04-15T23:23:54.448Z",
+      "solution": "Trocamos o botão de click do mouse."
     },
     {
-      "id": "aa04ad4d-47eb-4c23-8bf6-0a36c7a6d8b1",
+      "id": "fcd4089a-e6a0-4b3e-b5a9-1a409e9cfe4f",
       "equipment": "Teclado",
       "description": "A tecla de espaço não funciona.",
       "user_name": "João Pedro",
       "status": "open",
-      "created_at": "2026-04-15T22:55:15.861Z",
-      "updated_at": "2026-04-15T22:55:15.861Z"
+      "created_at": "2026-04-15T23:23:03.877Z",
+      "updated_at": "2026-04-15T23:23:03.877Z"
+    },
+    {
+      "id": "d4a305ca-25df-4b31-9b51-4108f069f7b6",
+      "equipment": "Monitor",
+      "description": "Monitor fica desligando de repente.",
+      "user_name": "Maria",
+      "status": "open",
+      "created_at": "2026-04-15T23:23:19.970Z",
+      "updated_at": "2026-04-15T23:23:19.970Z"
+    },
+    {
+      "id": "f27e1bbb-9b6a-4b17-96aa-9038d267b86a",
+      "equipment": "Computador",
+      "description": "Computador reiniciando sozinho.",
+      "user_name": "Jose",
+      "status": "open",
+      "created_at": "2026-04-15T23:23:38.288Z",
+      "updated_at": "2026-04-15T23:23:38.288Z"
     }
   ]
 }
