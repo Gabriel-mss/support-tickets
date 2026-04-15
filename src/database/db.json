@@ -1,1 +1,22 @@
-{"tickets":[{"id":"a77e3cbc-99fb-4fb6-90dc-7f06e3a50b77","equipment":"Computador","description":"O computador não liga","user_name":"Gabriel Martins","status":"open","created_at":"2026-04-14T22:29:27.830Z","updated_at":"2026-04-14T22:29:27.830Z"},{"id":"92000aaa-b565-441e-9d6f-86d9d4e9910c","equipment":"Teclado","description":"A tecla de espaço não funciona.","user_name":"João Pedro","status":"open","created_at":"2026-04-14T22:29:36.948Z","updated_at":"2026-04-14T22:29:36.948Z"}]}
+{
+  "tickets": [
+    {
+      "id": "21f86fe2-7873-4f70-9b5a-cf9b2ece686e",
+      "equipment": "Mouse",
+      "description": "O click não funciona.",
+      "user_name": "Gabriel Martins",
+      "status": "open",
+      "created_at": "2026-04-15T22:55:07.561Z",
+      "updated_at": "2026-04-15T22:55:48.570Z"
+    },
+    {
+      "id": "aa04ad4d-47eb-4c23-8bf6-0a36c7a6d8b1",
+      "equipment": "Teclado",
+      "description": "A tecla de espaço não funciona.",
+      "user_name": "João Pedro",
+      "status": "open",
+      "created_at": "2026-04-15T22:55:15.861Z",
+      "updated_at": "2026-04-15T22:55:15.861Z"
+    }
+  ]
+}
